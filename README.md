@@ -6,8 +6,8 @@
 [travisurl]:   https://travis-ci.org/karalabe/usb
 [appveyorimg]: https://ci.appveyor.com/api/projects/status/u96eq262bj2itprh/branch/master?svg=true
 [appveyorurl]: https://ci.appveyor.com/project/karalabe/usb
-[docimg]:      https://godoc.org/github.com/karalabe/usb?status.svg
-[docurl]:      https://godoc.org/github.com/karalabe/usb
+[docimg]:      https://godoc.org/github.com/pavelkrolevets/usb?status.svg
+[docurl]:      https://godoc.org/github.com/pavelkrolevets/usb
 
 # Yet another USB library for Go
 
